@@ -9,7 +9,7 @@
 body{
 	height: 100vh;
 	display: flex;
-	align-items: center;
+	align-items: left;
 	justify-content: center;
 }
 .container{
@@ -17,7 +17,7 @@ body{
 	padding: 30px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
-	background-color: #4e0548;
+	background-color: #4e0523;
 }
 h4{
 	margin-bottom: 10px;
