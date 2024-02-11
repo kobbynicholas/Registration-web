@@ -5,6 +5,11 @@
 	margin: 0;
 	font-family: 'poppins', sans-serif;
 	font-size: 18px;
+h2{
+	margin-bottom: 10px;
+	font-size: 48px;
+	color: Red;
+}	
 }
 body{
 	height: 100vh;
