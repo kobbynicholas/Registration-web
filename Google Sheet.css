@@ -17,8 +17,9 @@ body{
 	align-items: left;
 	justify-content: center;
 }
-.container{
-	width: 1500px;
+.container2{
+	width: 900px;
+	height: 500px;
 	padding: 40px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
@@ -41,12 +42,12 @@ h4{
 	color: white;
 }
 input{
-	width: 100%;
+	width: 60%;
 	padding: 10px;
 	margin-bottom: 10px;
 }
 textarea{
-	width: 100%;
+	width: 60%;
 	padding: 10px;
 }
 #submit{
