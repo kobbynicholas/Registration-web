@@ -23,7 +23,7 @@ body{
 	padding: 40px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
-	background-color: #4e0523;
+	background-color: light blue;
 }
 .container1{
 	width:300px;
@@ -42,7 +42,7 @@ h4{
 	color: white;
 }
 input{
-	width: 60%;
+	width: 100%;
 	padding: 10px;
 	margin-bottom: 10px;
 }
