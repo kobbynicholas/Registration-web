@@ -29,7 +29,9 @@ body{
 	padding: 40px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
-	background-color: #4e0523;
+	background-color: blue;
+	font-size: 25px;
+	color: white;
 }
 
 h4{
